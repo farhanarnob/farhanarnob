@@ -16,7 +16,7 @@ Computer scientist, software engineer and educator. Ph.D. candidate in Computer 
 
 ## Selected publications
 
-- **Enhancing Bug Triaging with Organizational Metadata and Commit-Aware Transformers.** SEKE 2026. [doi](https://doi.org/10.18293/SEKE2026-010)
+- **Enhancing Bug Triaging with Organizational Metadata and Commit-Aware Transformers.** SEKE 2026. [pdf](https://ksiresearch.org/seke/seke26paper/paper010.pdf)
 - **Hybrid Sequential Pattern Mining and Machine Learning for Context-Aware Event Prediction in IoT.** IEEE CCWC 2026, *Best Paper Award (Reviewers' Choice)*. [doi](https://doi.org/10.1109/CCWC67433.2026.11393795)
 - **Bug Triaging Based on Transformer Models Utilizing Commit Messages.** ITNG 2025, Springer. [doi](https://doi.org/10.1007/978-3-031-89063-5_30)
 
