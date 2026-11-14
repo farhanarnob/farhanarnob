@@ -11,7 +11,7 @@ Computer scientist, software engineer and educator. Ph.D. candidate in Computer 
 ## About me
 
 - **Research:** machine learning and NLP for software engineering, mainly automated bug triage. Published at SEKE, ITNG and IEEE CCWC (Best Paper Award, 2026).
-- **Engineering:** about four and a half years building Android apps in Dhaka, Bangladesh, as team lead at Field Buzz and HelloDoc24.
+- **Engineering:** about four and a half years building Android apps in Dhaka as team lead at Field Buzz and HelloDoc24.
 - **Teaching:** teaching assistant at UNT since 2022, mainly for IT Project Management; summer research mentor for undergraduates through an NSF REU site.
 
 ## Selected publications
