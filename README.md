@@ -27,7 +27,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=wZzUMAoA
 - **Languages:** Python, Java, C++, Kotlin
 - **Machine learning:** transformer models (RoBERTa, CodeBERT, DeBERTa, XLNet, T5), large language models, learning to rank (LightGBM LambdaMART), TensorFlow, scikit-learn, NLTK, Pandas
 - **Mobile:** Android (Jetpack, MVVM, coroutines and Flow, Retrofit), Espresso
-- **Platforms:** TACC Lonestar6 (HPC), Azure, SageMaker, Android Studio
+- **Platforms:** High-performance computing (HPC), Azure, SageMaker, Android Studio
 
 ---
 
